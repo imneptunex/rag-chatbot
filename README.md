@@ -1,11 +1,13 @@
-# RAG Chatbot
+# Movie Recommender Chatbot
 
-A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, and Chroma. This application allows users to interact with a chatbot that retrieves relevant information from documents to provide accurate and context-aware responses.
+A basic Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and LangChain. This application allows users to interact with a chatbot that **recommends movies** based on user queries and retrieves relevant information from a movie dataset for context-aware responses.
+
 
 ## Features
 
 - **Streamlit Interface**: User-friendly web interface for interacting with the chatbot.
 - **Document Processing**: Supports processing of Markdown files to build a knowledge base.
+- **Movie Recommendations**: Suggests movies based on user preferences or queries.
 - **Embeddings**: Utilizes sentence-transformers to create embeddings for document chunks.
 - **Vector Store**: Stores embeddings in Chroma for efficient retrieval.
 
