@@ -14,29 +14,28 @@ A basic Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and La
 ## Installation
 
 ### Clone the Repository
-
+```
 git clone https://github.com/imneptunex/rag-chatbot.git
-
-
 cd rag-chatbot
+```
 
 **Set Up Virtual Environment**
+```
 python -m venv .venv
-
-
 source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
+```
 
 **Install Dependencies**
+```
 pip install -r requirements.txt
-
+```
 **Run the Streamlit App**
+```
 streamlit run app.py
-
+```
 
 **This will start the Streamlit server and provide a local URL to access the chatbot interface.**
 
-
-Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, make your changes, and submit a pull request.
 
