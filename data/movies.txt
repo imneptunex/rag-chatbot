@@ -1,0 +1,421 @@
+ Title: The Shawshank Redemption
+Genre: Drama
+Year: 1994
+Rating: 9.3
+Description: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Tags: prison, friendship, hope, redemption
+
+Title: The Dark Knight
+Genre: Action, Crime, Drama
+Year: 2008
+Rating: 9.0
+Description: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Tags: superhero, batman, joker, chaos
+
+Title: Inception
+Genre: Action, Adventure, Sci-Fi
+Year: 2010
+Rating: 8.8
+Description: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+Tags: dreams, reality, heist, mind-bending, mysterious
+
+Title: The Forgotten Path
+Genre: Drama, Mystery
+Year: 2017
+Rating: 8.1
+Description: A grieving writer returns to his hometown and uncovers long-buried secrets that connect his family to a series of mysterious disappearances.
+Tags: mystery, family, secrets, small town
+
+
+Title: Fractured Skies
+Genre: Sci-Fi, Thriller
+Year: 2022
+Rating: 7.8
+Description: After a massive solar storm disrupts Earth’s satellites, a team of astronauts discovers evidence of intelligent signals hidden within the interference.
+Tags: space, survival, aliens, technology
+
+
+Title: The Silent Witness
+Genre: Crime, Drama
+Year: 2015
+Rating: 8.2
+Description: A deaf teenager becomes the key witness in a high-profile murder case, forcing the justice system to confront its own flaws.
+Tags: crime, justice, disability, mystery
+
+
+Title: Crimson Horizon
+Genre: Action, Adventure
+Year: 2019
+Rating: 7.6
+Description: A rogue pilot and a group of rebels battle against a ruthless warlord to control the skies of a dystopian world.
+Tags: action, rebellion, war, dystopia
+
+
+Title: Beneath the Ice
+Genre: Thriller, Horror
+Year: 2020
+Rating: 7.9
+Description: Scientists trapped in an Arctic research station uncover a creature frozen beneath the ice that was never meant to be awakened.
+Tags: arctic, survival, horror, monster
+
+
+Title: The Painted Veil
+Genre: Romance, Drama
+Year: 2006
+Rating: 7.5
+Description: Amid a cholera outbreak in 1920s China, a troubled marriage finds unexpected strength through sacrifice and compassion.
+Tags: romance, marriage, epidemic, sacrifice
+
+
+Title: The Last Oracle
+Genre: Fantasy, Adventure
+Year: 2021
+Rating: 7.7
+Description: A young scholar discovers an ancient prophecy that foretells the fall of empires, leading him on a perilous quest for truth.
+Tags: prophecy, fantasy, destiny, adventure
+
+
+Title: Paper Kingdom
+Genre: Drama, Family
+Year: 2016
+Rating: 7.4
+Description: A struggling father invents a fantastical world for his son, but as reality encroaches, imagination becomes their only refuge.
+Tags: father-son, imagination, family, hardship
+
+
+Title: Midnight Crossroads
+Genre: Mystery, Thriller
+Year: 2018
+Rating: 7.8
+Description: A detective haunted by his past is forced to confront the truth when a series of murders mimic an unsolved case from a decade ago.
+Tags: crime, detective, mystery, thriller
+
+
+Title: Ashes of Tomorrow
+Genre: Sci-Fi, Drama
+Year: 2023
+Rating: 8.0
+Description: In a world devastated by climate collapse, a scientist struggles to preserve the last fragments of human knowledge before time runs out.
+Tags: apocalypse, survival, science, future
+
+
+Title: The Broken Crown
+Genre: Historical, Drama
+Year: 2014
+Rating: 7.9
+Description: Set in medieval Europe, a young prince must choose between his kingdom’s traditions and the freedom of the people he wishes to rule.
+Tags: royalty, politics, betrayal, history
+
+
+Title: Lost Frequencies
+Genre: Sci-Fi, Mystery
+Year: 2022
+Rating: 7.6
+Description: Radio operators stumble upon signals from an alternate timeline, leading to dangerous consequences across dimensions.
+Tags: time, parallel worlds, mystery, technology
+
+
+Title: Edge of Silence
+Genre: Thriller, Crime
+Year: 2017
+Rating: 8.0
+Description: A woman stalked by an unknown assailant uses her skills as a sound engineer to uncover the identity of her pursuer.
+Tags: thriller, sound, stalking, crime
+
+
+Title: Eternal Voyage
+Genre: Adventure, Fantasy
+Year: 2015
+Rating: 7.5
+Description: A cursed ship sails endlessly through storms until a brave navigator attempts to break the cycle.
+Tags: sea, curse, adventure, mystery
+
+
+Title: City of Ash
+Genre: Action, Sci-Fi
+Year: 2021
+Rating: 7.8
+Description: In a futuristic city suffocating under corporate control, a rebellious hacker leads an uprising from the underground.
+Tags: cyberpunk, rebellion, technology, dystopia
+
+
+Title: Shadows of Eden
+Genre: Drama, Mystery
+Year: 2018
+Rating: 7.9
+Description: A young botanist uncovers a hidden valley untouched by humanity, but its beauty hides dangerous truths.
+Tags: nature, secrets, discovery, survival
+
+
+Title: Fire in the Fog
+Genre: Mystery, Thriller
+Year: 2019
+Rating: 7.7
+Description: A series of arsons devastates a coastal town, and a rookie journalist risks everything to uncover the arsonist’s motives.
+Tags: fire, town, investigation, suspense
+
+
+Title: Mirage
+Genre: Sci-Fi, Psychological
+Year: 2020
+Rating: 7.6
+Description: A soldier returning from war questions reality after experiencing vivid hallucinations of a future he doesn’t remember living.
+Tags: memory, hallucination, war, mystery
+
+
+Title: Silent Storm
+Genre: Drama, War
+Year: 2016
+Rating: 7.8
+Description: During WWII, a submarine crew struggles with fear and loyalty as their oxygen runs dangerously low.
+Tags: submarine, war, sacrifice, survival
+
+
+Title: The Last Symphony
+Genre: Drama, Music
+Year: 2014
+Rating: 7.5
+Description: A dying composer races against time to complete his final piece, which he believes holds the essence of his life.
+Tags: music, legacy, passion, drama
+
+
+Title: Broken Chains
+Genre: Action, Thriller
+Year: 2019
+Rating: 7.9
+Description: A man framed for a crime escapes prison and vows to uncover the conspiracy that destroyed his life.
+Tags: prison, conspiracy, escape, action
+
+
+Title: Aurora Rising
+Genre: Sci-Fi, Adventure
+Year: 2023
+Rating: 7.8
+Description: Explorers journey to a distant planet to harness its resources but uncover a sentient lifeform older than humanity.
+Tags: space, aliens, exploration, adventure
+
+
+Title: Glass House
+Genre: Drama, Thriller
+Year: 2015
+Rating: 7.4
+Description: A wealthy family’s perfect image shatters when their secrets are exposed by an anonymous hacker.
+Tags: family, secrets, betrayal, thriller
+
+
+Title: Iron Harvest
+Genre: War, Drama
+Year: 2020
+Rating: 7.7
+Description: After WWI, farmers in Eastern Europe rebuild their lives while contending with leftover war machines and hidden soldiers.
+Tags: war, survival, history, drama
+
+
+Title: Lantern’s End
+Genre: Mystery, Fantasy
+Year: 2017
+Rating: 7.6
+Description: A forgotten village reveals its past through glowing lanterns that reappear every century.
+Tags: fantasy, mystery, folklore, magic
+
+
+Title: Shattered Veil
+Genre: Thriller, Sci-Fi
+Year: 2021
+Rating: 7.8
+Description: A government experiment fractures reality, forcing a scientist to relive alternate versions of her life.
+Tags: alternate reality, science, thriller, time
+
+
+Title: The Hallowed Ground
+Genre: Horror, Mystery
+Year: 2016
+Rating: 7.5
+Description: A group of hikers stumble upon an ancient burial site, unleashing something far older than mankind.
+Tags: horror, curse, survival, mystery
+
+
+Title: Ember City
+Genre: Action, Crime
+Year: 2019
+Rating: 7.6
+Description: In a crime-ridden metropolis, a vigilante rises from the ashes to bring justice to the streets.
+Tags: vigilante, justice, crime, action
+
+
+Title: Blue Horizon
+Genre: Drama, Romance
+Year: 2018
+Rating: 7.4
+Description: A sailor and a painter fall in love across letters exchanged while separated by oceans.
+Tags: romance, long-distance, art, love
+
+
+Title: Darkened Shores
+Genre: Thriller, Mystery
+Year: 2015
+Rating: 7.7
+Description: A marine biologist discovers mutilated creatures washing ashore and unravels a conspiracy involving deep-sea drilling.
+Tags: ocean, mystery, thriller, science
+
+
+
+Title: Whispers in the Wind
+Genre: Drama, Fantasy
+Year: 2016
+Rating: 7.5
+Description: A young girl discovers she can hear the voices of the dead carried by the wind.
+Tags: fantasy, supernatural, mystery, child
+
+
+Title: Black Sun
+Genre: Sci-Fi, Action
+Year: 2022
+Rating: 7.9
+Description: When the sun mysteriously darkens, Earth’s nations race to survive in the chaos of eternal night.
+Tags: apocalypse, science, survival, action
+
+
+Title: The Warden’s Son
+Genre: Drama, Crime
+Year: 2017
+Rating: 7.6
+Description: The son of a prison warden struggles with loyalty when his father is accused of corruption.
+Tags: prison, family, corruption, drama
+
+
+Title: Hollow Echoes
+Genre: Horror, Thriller
+Year: 2018
+Rating: 7.7
+Description: Paranormal investigators find themselves trapped inside a haunted asylum that records their worst fears.
+Tags: horror, asylum, supernatural, mystery
+
+
+Title: Tides of Time
+Genre: Fantasy, Adventure
+Year: 2021
+Rating: 7.8
+Description: A clockmaker discovers a river that flows backward through time, granting glimpses into the past.
+Tags: time, fantasy, adventure, destiny
+
+
+Title: White Raven
+Genre: Crime, Thriller
+Year: 2019
+Rating: 7.6
+Description: A reclusive hitman becomes the target of his own organization when he refuses his final assignment.
+Tags: assassin, betrayal, thriller, crime
+
+
+Title: The Crimson Key
+Genre: Mystery, Adventure
+Year: 2015
+Rating: 7.5
+Description: A historian uncovers a key that unlocks clues to a forgotten treasure hidden for centuries.
+Tags: treasure, adventure, history, mystery
+
+
+Title: Neon Shadows
+Genre: Sci-Fi, Action
+Year: 2020
+Rating: 7.9
+Description: A cybernetic detective in a futuristic city hunts for a rogue AI capable of rewriting human memories.
+Tags: cyberpunk, AI, detective, action
+
+
+Title: Forgotten Melody
+Genre: Drama, Music
+Year: 2016
+Rating: 7.4
+Description: A pianist battling memory loss rediscovers love and artistry through a lost composition.
+Tags: music, memory, love, drama
+
+
+Title: Dead Man’s Harbor
+Genre: Thriller, Mystery
+Year: 2018
+Rating: 7.6
+Description: A fishing village hides a dark secret when a body washes ashore, leading to a chilling investigation.
+Tags: mystery, crime, thriller, village
+
+
+
+Title: Shadow Puppets
+Genre: Horror, Mystery
+Year: 2017
+Rating: 7.5
+Description: Children’s shadow puppets in a small town begin acting independently, revealing horrifying truths.
+Tags: horror, supernatural, children, mystery
+
+
+Title: Obsidian Heart
+Genre: Fantasy, Romance
+Year: 2019
+Rating: 7.7
+Description: A cursed knight must find redemption through the love of a healer who sees beyond his darkness.
+Tags: romance, curse, knight, fantasy
+
+
+Title: The Silent Divide
+Genre: Drama, War
+Year: 2016
+Rating: 7.6
+Description: Two soldiers from opposite sides form an unlikely friendship in the midst of battle.
+Tags: war, friendship, sacrifice, humanity
+
+
+Title: Eclipse Protocol
+Genre: Sci-Fi, Action
+Year: 2022
+Rating: 7.9
+Description: A covert team races against time to stop a weapon capable of dimming the sun forever.
+Tags: action, sci-fi, thriller, apocalypse
+
+
+Title: The Glass River
+Genre: Drama, Mystery
+Year: 2015
+Rating: 7.4
+Description: A woman returns to her childhood home by a river only to uncover why her family vanished decades ago.
+Tags: family, mystery, past, secrets
+
+
+Title: Cinderfall
+Genre: Fantasy, Adventure
+Year: 2020
+Rating: 7.8
+Description: A fallen kingdom’s heir embarks on a quest to reclaim her throne from a ruthless usurper.
+Tags: fantasy, royalty, quest, battle
+
+
+Title: Veil of Smoke
+Genre: Thriller, Crime
+Year: 2018
+Rating: 7.7
+Description: A firefighter discovers that the blazes tearing through his city are tied to an underground crime syndicate.
+Tags: fire, crime, corruption, thriller
+
+
+Title: The Seventh Hour
+Genre: Mystery, Thriller
+Year: 2019
+Rating: 7.6
+Description: A psychiatrist must solve the mystery of seven patients who claim to have lived the same day repeatedly.
+Tags: time loop, mystery, thriller, psychology
+
+
+Title: Starless Sea
+Genre: Adventure, Fantasy
+Year: 2021
+Rating: 7.8
+Description: A sailor discovers a hidden ocean beneath the earth, leading to worlds beyond imagination.
+Tags: fantasy, sea, exploration, mystery
+
+
+Title: Echoes of Tomorrow
+Genre: Sci-Fi, Drama
+Year: 2023
+Rating: 8.0
+Description: A scientist faces impossible choices when she receives messages from her future self warning of an unavoidable disaster.
+Tags: time, future, drama, sci-fi

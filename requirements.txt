@@ -1,0 +1,8 @@
+langchain
+streamlit
+faiss-cpu
+python-dotenv
+tiktoken
+gemini
+fireworks
+sentence_transformers
